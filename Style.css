@@ -1,0 +1,47 @@
+body{
+  background-color:#E4F5F9;
+  text-align: center;
+  font-family:'merriweather',serif;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+}
+h2{
+    font-family: "Comic Sans MS",cursive,sans-serif;
+}
+
+h3{
+    font-family: 'Sacramento', cursive;
+}
+
+p{
+  font-family: "Comic Sans MS",cursive,sans-serif;
+}
+.web{
+  text-decoration: underline;
+}
+
+
+.bottom-cloud{
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+  top: 300px;
+}
+.top-cloud{
+  position: relative;
+  padding-top: 100px;
+  left: 300px;
+  top: 5px;
+}
+
+.profile-1{
+height: 350px;
+
+background-color: #E4F5F9;
+}
+.computer{
+  height: 250px;
+
+}
