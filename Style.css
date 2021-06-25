@@ -45,7 +45,7 @@ background-color: #E4F5F9;
   height: 250px;
 
 }
-.btn {
+.btn{
    background: #3DEFF6;
    background-image: -webkit-linear-gradient(top, #3DEFF6, #1E62D0);
    background-image: -moz-linear-gradient(top, #3DEFF6, #1E62D0);
@@ -71,7 +71,7 @@ background-color: #E4F5F9;
    text-align: center;
 }
 
-.btn:hover {
+.btn{
    border: solid #FFFFFF 1px;
    background: #1E62D0;
    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
